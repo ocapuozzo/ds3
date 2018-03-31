@@ -26,14 +26,14 @@ Un devoir surveillé est un moment particulier de la formation qui vise à mesur
 
 Voyons voir ce que nous entendons communément par DS.
 
-{# quote author:"wikipedia-mars-2018" url:http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9 title:"Devoir Surveillé" #}
 
-> wikipedia-mars-2018 []http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9](Devoir Surveillé) 
+[Devoir Surveillé (wikipedia 2018)](http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9) 
 
 > _Un devoir surveillé, souvent abrégé en DS, est un contrôle de connaissances portant sur un ou plusieurs points abordés au cours de l'année scolaire en cours dans une discipline spécifique. Sa durée peut varier d'une à quatre heures suivant la difficulté du sujet, de la discipline et du niveau d'étude._
+
 > [...] 
+
 > _Les devoirs surveillés se déroulent généralement en classe ou dans une salle spécifique regroupant plusieurs classes, sous surveillance (d'où le nom) pour éviter les fraudes (copiage, antisèches). Selon les disciplines, les élèves peuvent être autorisés à utiliser une calculatrice et/ou certains documents._
-{# endquote #}
 
 
 Proposition de déclinaisons.
@@ -84,10 +84,10 @@ L'idée est d'ouvir un espace de collaboration inter-élèves à mi-parcours du 
    Au cours d'une manifestation sportive, à la mi-temps, les joueurs quittent provisoirement le terrain. Dans notre cas, selon la configuration de la salle, les élèves sont invités à sortir soit dans le couloir annexe, soit à se déplacer au fond de la salle. C'est une sorte d'anticipation de ce qui se passe dans le couloir à la sortie d'un DS où les échanges sont naturellement bien engagés.
 
    Exemple de mi-temps DS3.0 (dans un modèle où les copies peuvent être support aux échanges) :
-   {% img center /images/DS3.0-MiTemps.jpg 'DS3.0 élèves à l oeuvre' %}
+![DS3.0 élèves à l oeuvre]({{ site.baseurl }}/images/DS3.0-MiTemps.jpg "DS3.0 élèves à l'oeuvre")
 
    Retour à la composition :
-   {% img center /images/DS3.0-ApresMiTemps.jpg 'DS3.0 élèves retour à la composition' %}
+![DS3.0 élèves à l oeuvre]({{ site.baseurl }}/images/DS3.0-ApresMiTemps.jpg "DS3.0 élèves retour à la composition")
 
 ##   De nombreux avantages :
    *   Élimine des situations de blocages (question non comprise ou mal comprise)
