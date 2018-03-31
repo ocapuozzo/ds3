@@ -1,0 +1,44 @@
+# Site settings
+title: Fenêtre sur routes
+subtitle: chemins de doutes, sans aucun doute
+email: olivier.capuozzo@gmail.com
+author: Olivier Capuozzo
+description: > # this means to ignore newlines until "baseurl:"
+  Pratiques pédagogiques, adaptatives...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ocapuozzo.github.io" # the base hostname & protocol for your site
+
+github_username:  ocapuozzo
+
+# Disqus Comments
+disqus_short_name: ocapuozzo
+disqus_show_comment_count: false
+
+# Build settings
+markdown: kramdown
+
+# Default extension for new posts and pages
+post_ext: markdown
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
+
+gems:
+  - octopress-image-tag
+  - octopress-video-tag
+  - octopress-codeblock
+  - octopress-quote-tag
+  - octopress-codefence
+  - octopress-solarized
+  - octopress-gist
