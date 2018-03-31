@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ds-3.0"
-date: 2013-12-24 14:49:21 +0100
+date: 2018-03-31 14:49:21 +0100
 comments: true
 categories: Education
 published: true
@@ -26,14 +26,14 @@ Un devoir surveillé est un moment particulier de la formation qui vise à mesur
 
 Voyons voir ce que nous entendons communément par DS.
 
-{% quote author:"wikipedia-mars-2018" url:http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9 title:"Devoir Surveillé" %}
+{# quote author:"wikipedia-mars-2018" url:http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9 title:"Devoir Surveillé" #}
 
-Un devoir surveillé, souvent abrégé en DS, est un contrôle de connaissances portant sur un ou plusieurs points abordés au cours de l'année scolaire en cours dans une discipline spécifique. Sa durée peut varier d'une à quatre heures suivant la difficulté du sujet, de la discipline et du niveau d'étude.
+> wikipedia-mars-2018 []http://fr.wikipedia.org/wiki/Devoir_surveill%C3%A9](Devoir Surveillé) 
 
-[...]
-
-Les devoirs surveillés se déroulent généralement en classe ou dans une salle spécifique regroupant plusieurs classes, sous surveillance (d'où le nom) pour éviter les fraudes (copiage, antisèches). Selon les disciplines, les élèves peuvent être autorisés à utiliser une calculatrice et/ou certains documents.
-{% endquote %}
+> _Un devoir surveillé, souvent abrégé en DS, est un contrôle de connaissances portant sur un ou plusieurs points abordés au cours de l'année scolaire en cours dans une discipline spécifique. Sa durée peut varier d'une à quatre heures suivant la difficulté du sujet, de la discipline et du niveau d'étude._
+> [...] 
+> _Les devoirs surveillés se déroulent généralement en classe ou dans une salle spécifique regroupant plusieurs classes, sous surveillance (d'où le nom) pour éviter les fraudes (copiage, antisèches). Selon les disciplines, les élèves peuvent être autorisés à utiliser une calculatrice et/ou certains documents._
+{# endquote #}
 
 
 Proposition de déclinaisons.
