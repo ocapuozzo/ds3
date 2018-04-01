@@ -8,4 +8,14 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <style>
+      .image2 {
+        border: double 4px transparent;
+        border-radius: 10px;
+        background-image: linear-gradient(white, white), radial-gradient(circle at top left, lightgrey,white);
+        background-origin: border-box;
+        background-clip: content-box, border-box;
+      }
+    </style>
 </head>
