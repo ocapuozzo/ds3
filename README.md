@@ -4,5 +4,8 @@ Le présent document a pour objectif de présenter des pistes visant à introdui
 la dimension formative de l’évaluation. C’est également une façon d’exploiter ce moment privilégié
 de concentration de la part de nos élèves.
 
-[DS3 - une autre approche du devoir surveillé] (https://ocapuozzo.github.io/ds3/education/2018/03/31/ds-3-point-zero.html)
+[DS3 - une autre approche du devoir surveillé](https://ocapuozzo.github.io/ds3/education/2018/03/31/ds-3-point-zero.html)
 
+Solutions techniques :
+* Édition : [Jekyll](https://jekyllrb.com/)
+* Publication : [GitHub Pages](https://github.com/github/pages-gem)
