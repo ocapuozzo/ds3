@@ -2,7 +2,7 @@
     {% if include.url %}
     <a href="http://{{ include.url }}">
     {% endif %}
-        <img class="image2" src="{{ include.file }}"  {% if include.max-width %} style="max-width: {{ include.max-width }};" {% endif %}
+        <img class="image2" src="{{ site.baseurl }}/{{ include.file }}"  {% if include.max-width %} style="max-width: {{ include.max-width }};" {% endif %}
              alt="{{ include.alt }}"/>
     {% if include.url %}
     </a>
